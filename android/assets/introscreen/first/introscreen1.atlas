@@ -1,0 +1,33 @@
+
+introscreen1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+screen1anim2
+  rotate: false
+  xy: 1, 849
+  size: 699, 1041
+  orig: 699, 1041
+  offset: 0, 0
+  index: -1
+screen1anim1
+  rotate: false
+  xy: 1, 154
+  size: 618, 693
+  orig: 618, 693
+  offset: 0, 0
+  index: -1
+screen1anim3
+  rotate: false
+  xy: 1, 37
+  size: 580, 115
+  orig: 580, 115
+  offset: 0, 0
+  index: -1
+screen1Tap
+  rotate: false
+  xy: 1, 1
+  size: 593, 34
+  orig: 593, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+introscreen4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+screen4anim1
+  rotate: false
+  xy: 1, 142
+  size: 536, 722
+  orig: 536, 722
+  offset: 0, 0
+  index: -1
+screen4anim3
+  rotate: false
+  xy: 539, 522
+  size: 524, 342
+  orig: 524, 342
+  offset: 0, 0
+  index: -1
+screen4anim2
+  rotate: false
+  xy: 1, 1
+  size: 271, 139
+  orig: 271, 139
+  offset: 0, 0
+  index: -1

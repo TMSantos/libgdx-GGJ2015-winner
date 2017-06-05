@@ -1,0 +1,26 @@
+
+introscreen3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+screen3anim1
+  rotate: false
+  xy: 1, 63
+  size: 297, 426
+  orig: 297, 426
+  offset: 0, 0
+  index: -1
+screen3anim2
+  rotate: false
+  xy: 1, 1
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+screen3anim3
+  rotate: false
+  xy: 300, 450
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1

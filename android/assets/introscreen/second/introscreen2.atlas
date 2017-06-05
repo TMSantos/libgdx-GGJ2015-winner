@@ -1,0 +1,54 @@
+
+introscreen2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+screen2anim4
+  rotate: false
+  xy: 1, 360
+  size: 600, 577
+  orig: 600, 577
+  offset: 0, 0
+  index: -1
+screen2anim3
+  rotate: false
+  xy: 1, 1
+  size: 573, 357
+  orig: 573, 357
+  offset: 0, 0
+  index: -1
+screen2text2
+  rotate: false
+  xy: 603, 806
+  size: 580, 131
+  orig: 580, 131
+  offset: 0, 0
+  index: -1
+screen2text1
+  rotate: false
+  xy: 603, 693
+  size: 580, 111
+  orig: 580, 111
+  offset: 0, 0
+  index: -1
+screen2world
+  rotate: false
+  xy: 603, 349
+  size: 338, 342
+  orig: 338, 342
+  offset: 0, 0
+  index: -1
+screen2anim2
+  rotate: false
+  xy: 1185, 750
+  size: 356, 187
+  orig: 356, 187
+  offset: 0, 0
+  index: -1
+screen2anim1
+  rotate: false
+  xy: 943, 552
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1

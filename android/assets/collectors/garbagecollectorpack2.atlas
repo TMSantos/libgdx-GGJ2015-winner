@@ -1,0 +1,68 @@
+
+garbagecollectorpack2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bio_collector1
+  rotate: false
+  xy: 1, 577
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+bio_collector2
+  rotate: false
+  xy: 1, 289
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+bio_collector3
+  rotate: false
+  xy: 525, 577
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+bio_collector4
+  rotate: false
+  xy: 1, 1
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+bio_collector5
+  rotate: false
+  xy: 525, 289
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+bio_collector6
+  rotate: false
+  xy: 1049, 577
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+plastic_collector1
+  rotate: false
+  xy: 525, 1
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+plastic_collector2
+  rotate: false
+  xy: 1049, 289
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1
+plastic_collector3
+  rotate: false
+  xy: 1049, 1
+  size: 522, 286
+  orig: 522, 286
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+
+introscreen5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+screen5anim1
+  rotate: false
+  xy: 1, 189
+  size: 682, 659
+  orig: 682, 659
+  offset: 0, 0
+  index: -1
+screen5anim4
+  rotate: false
+  xy: 685, 458
+  size: 374, 390
+  orig: 374, 390
+  offset: 0, 0
+  index: -1
+screen5anim2
+  rotate: false
+  xy: 1, 1
+  size: 368, 186
+  orig: 368, 186
+  offset: 0, 0
+  index: -1
+screen5anim3
+  rotate: false
+  xy: 685, 422
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1

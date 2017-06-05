@@ -1,0 +1,26 @@
+
+HUDpack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lost
+  rotate: false
+  xy: 1, 529
+  size: 824, 471
+  orig: 824, 471
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 1, 142
+  size: 823, 385
+  orig: 823, 385
+  offset: 0, 0
+  index: -1
+HUDScoreBox
+  rotate: false
+  xy: 1, 1
+  size: 455, 139
+  orig: 455, 139
+  offset: 0, 0
+  index: -1

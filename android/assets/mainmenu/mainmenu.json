@@ -1,0 +1,7 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	Play: { down: playClick, up: play },
+	Credits: { down: creditsClick, up: credits },
+	Exit: { down: exitClick, up: exit }
+},
+}

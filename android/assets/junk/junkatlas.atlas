@@ -1,0 +1,89 @@
+
+junkatlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bio_junk1
+  rotate: false
+  xy: 1, 676
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+bio_junk2
+  rotate: false
+  xy: 1, 451
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+bio_junk3
+  rotate: false
+  xy: 206, 676
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+glass_junk1
+  rotate: false
+  xy: 1, 226
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+glass_junk2
+  rotate: false
+  xy: 206, 451
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+glass_junk3
+  rotate: false
+  xy: 411, 676
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+paper_junk1
+  rotate: false
+  xy: 1, 1
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+paper_junk2
+  rotate: false
+  xy: 206, 226
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+paper_junk3
+  rotate: false
+  xy: 411, 451
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+plastic_junk1
+  rotate: false
+  xy: 616, 676
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+plastic_junk2
+  rotate: false
+  xy: 206, 1
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
+plastic_junk3
+  rotate: false
+  xy: 411, 226
+  size: 203, 223
+  orig: 203, 223
+  offset: 0, 0
+  index: -1
